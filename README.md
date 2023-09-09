@@ -53,5 +53,12 @@ Nesse desafio foi proposto criar um relatório mais elaborado com base na sample
 
 ### Imagens do Relatório
 
+##### Página Home
+
 ![pagina-home](https://github.com/data1991/desafio-relatorio-criativo/assets/144493849/cd2d6278-0bdd-4ab5-a53b-d8e53333f909)
+
+
+
+##### Página Next
+![pagina-next](https://github.com/data1991/desafio-relatorio-criativo/assets/144493849/c4ed6398-4226-4251-beb6-71ad2f5c19e6)
 
