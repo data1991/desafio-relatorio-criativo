@@ -53,4 +53,4 @@ Nesse desafio foi proposto criar um relatório mais elaborado com base na sample
 
 ### Imagens dos Relatórios
 
-<img src="/assets/images/pagina-home.jpg">
+<img src="/assets/images/pagina-home.jpeg">
