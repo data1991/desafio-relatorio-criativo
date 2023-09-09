@@ -51,5 +51,7 @@ Nesse desafio foi proposto criar um relatório mais elaborado com base na sample
 
  <img src="https://th.bing.com/th/id/OIP.FZGVRUnLT0WHCUnE3lPNrwAAAA?pid=ImgDet&rs=1" alt="logo github" width="50" height="50"> GitHub
 
+### Imagens do Relatório
 
+![pagina-home](https://github.com/data1991/desafio-relatorio-criativo/assets/144493849/cd2d6278-0bdd-4ab5-a53b-d8e53333f909)
 
