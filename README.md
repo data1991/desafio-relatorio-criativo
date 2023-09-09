@@ -51,4 +51,6 @@ Nesse desafio foi proposto criar um relatório mais elaborado com base na sample
 
  <img src="https://th.bing.com/th/id/OIP.FZGVRUnLT0WHCUnE3lPNrwAAAA?pid=ImgDet&rs=1" alt="logo github" width="50" height="50"> GitHub
 
- 
+### Imagens dos Relatórios
+
+<img src="/assets/images/pagina-home.jpg">
