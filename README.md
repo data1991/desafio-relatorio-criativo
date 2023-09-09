@@ -5,7 +5,6 @@ Desafio de Projeto -  Criando um Relatório de Vendas Elegante com Power BI
 
 Visite o relatório [Dashboard](https://app.powerbi.com/links/QQaIuR9cC-?ctid=6c60811c-739e-4044-a1d3-8c56a8a50c87&pbi_source=linkShare)
 
-### Acesso por QR
 
 ![Relatorio_criativo](https://github.com/data1991/desafio-relatorio-criativo/assets/144493849/bececa87-f443-4f91-b9f6-75185fd62511)
 
