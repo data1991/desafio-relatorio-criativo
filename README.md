@@ -1,6 +1,10 @@
 # Desafio Relatório Criativo
 Desafio de Projeto -  Criando um Relatório de Vendas Elegante com Power BI
 
+### Link Relatório
+
+Visite o relatório [GitHub Pages](https://pages.github.com/)
+
 ### Descrição do Desafio
 
 Nesse desafio foi proposto criar um relatório mais elaborado com base na sample financials do Power BI. 
