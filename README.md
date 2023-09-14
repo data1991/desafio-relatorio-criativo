@@ -45,11 +45,12 @@ Nesse desafio foi proposto criar um relatório mais elaborado com base na sample
 
 -> Submenta seu projeto através do link no github 
 
-                                                                        ### Ferramentas utilizadas
-<p align="center">
+### Ferramentas utilizada
+ 
+ ![Power BI](https://github.com/data1991/desafio-relatorio-criativo/assets/144493849/ea1d5e4e-86ce-4925-9dda-3f81b7baea19)
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</p>
+
 
 ### Imagens do Relatório
 
