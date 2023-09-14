@@ -48,11 +48,9 @@ Nesse desafio foi proposto criar um relatório mais elaborado com base na sample
 
 ### Ferramentas utilizadas
 
- <img src="https://th.bing.com/th/id/OIP.Y2cMLBWXZ3YA0cAP4NwOGgHaHa?pid=ImgDet&rs=1" alt="logo power bi" width="50" height="50"> Power BI
-
- <img src="https://wallpapercave.com/wp/wp3082278.jpg" alt="logo git" width="50" height="50"> Git
-
- <img src="https://th.bing.com/th/id/OIP.FZGVRUnLT0WHCUnE3lPNrwAAAA?pid=ImgDet&rs=1" alt="logo github" width="50" height="50"> GitHub
+ 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 
 ### Imagens do Relatório
 
