@@ -48,9 +48,10 @@ Nesse desafio foi proposto criar um relatório mais elaborado com base na sample
 
 ### Ferramentas utilizadas
 
- 
+<p align="center">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</p>
 
 ### Imagens do Relatório
 
