@@ -45,7 +45,7 @@ Nesse desafio foi proposto criar um relatório mais elaborado com base na sample
 
 -> Submenta seu projeto através do link no github 
 
-### Ferramentas utilizada
+### Ferramentas utilizadas
 
 <img src="https://saturne-formation.com/wp-content/uploads/2020/08/Power-BI-Certification-Training-Course-1-1-768x432.jpg" alt="logo maven" width="40" height="40"> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
