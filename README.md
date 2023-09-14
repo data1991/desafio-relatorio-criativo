@@ -1,5 +1,5 @@
-# Desafio Relatório Criativo - DIO 
-<img src="https://avatars1.githubusercontent.com/u/26231823?s=280&v=4" width="80" height="80"> Desafio de Projeto -  Criando um Relatório de Vendas Elegante com Power BI
+# <img src="https://avatars1.githubusercontent.com/u/26231823?s=280&v=4" width="80" height="80"> Desafio Relatório Criativo - DIO 
+Desafio de Projeto -  Criando um Relatório de Vendas Elegante com Power BI
 
 ### Link Relatório
 
